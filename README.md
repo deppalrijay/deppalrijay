@@ -1,4 +1,9 @@
-## Hi there, I'm Deppal 👋
+<div align="center">
+  <img src="https://tenor.com/view/uma-musume-uma-umamusume-israel-israel-flag-gif-8555806107683627170" width="300" alt="jimat hoki">
+</div>
+
+![Python](https://shields.io)
+![HTML](https://shields.io)
 
 
 <!--
