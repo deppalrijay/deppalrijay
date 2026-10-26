@@ -1,11 +1,17 @@
 <div align="center">
-  <img src="https://tenor.com/view/uma-musume-uma-umamusume-israel-israel-flag-gif-8555806107683627170" width="300" alt="jimat hoki">
+    <!-- Ganti src di bawah ini dengan link langsung file GIF (media.tenor.com) atau file lokal -->
+    <img src="" width="300" alt="jimat hoki">
+    <h1>What's Up!!, It's Deppal</h1>
+    <p>I'm Still Learning!!</p>
 </div>
 
-![Python](https://shields.io)
-![HTML](https://shields.io)
+<hr>
 
-
+<div align="center">
+    <!-- Badge menggunakan tag img HTML yang benar -->
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+</div>
 <!--
 **deppalrijay/deppalrijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
