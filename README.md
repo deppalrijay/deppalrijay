@@ -2,13 +2,13 @@
     <!-- Ganti src di bawah ini dengan link langsung file GIF (media.tenor.com) atau file lokal -->
     <img src="uma-israel.gif" width="300" alt="jimat hoki">
     <h1>What's Up!!, It's Deppal</h1>
-    <p>A Software Developer. <br>I like many things so yeah, deal with it.</p>
-    <p>Currently Learning: Python and JavaScript</p>
+    <h5>A Software Developer. <br>I like many things so yeah, deal with it.</h5>
+    <h5>Currently Learning: Python and JavaScript</h5>
 </div>
 
 <hr>
 
-<p>Tech Stack: </p>
+<h2>Tech Stack: </h2>
 
 <div align="left">
     <!-- Badge menggunakan tag img HTML yang benar -->
