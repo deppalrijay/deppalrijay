@@ -3,6 +3,7 @@
     <img src="uma-israel.gif" width="300" alt="jimat hoki">
     <h1>What's Up!!, It's Deppal</h1>
     <p>I'm Still Learning!!</p>
+    <p>Currently Learning: Python and JavaScript</p>
 </div>
 
 <hr>
